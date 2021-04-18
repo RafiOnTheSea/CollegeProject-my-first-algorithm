@@ -1,0 +1,7 @@
+C:\Users\rafin\source\repos\SAS\5.4\bin\Debug\5.4.exe.config
+C:\Users\rafin\source\repos\SAS\5.4\bin\Debug\5.4.exe
+C:\Users\rafin\source\repos\SAS\5.4\bin\Debug\5.4.pdb
+C:\Users\rafin\source\repos\SAS\5.4\obj\Debug\5.4.csprojAssemblyReference.cache
+C:\Users\rafin\source\repos\SAS\5.4\obj\Debug\5.4.csproj.CoreCompileInputs.cache
+C:\Users\rafin\source\repos\SAS\5.4\obj\Debug\5.4.exe
+C:\Users\rafin\source\repos\SAS\5.4\obj\Debug\5.4.pdb
